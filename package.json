@@ -1,7 +1,9 @@
 {
   "name": "once.cli",
   "package": "tla.EAM.Once",
-  "onceDependencies": [],
+  "onceDependencies": [
+    "once.merge"
+  ],
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
